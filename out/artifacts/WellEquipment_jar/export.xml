@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbinfo>
+  <well name="AAAAA" id="1">
+    <equipment name="9DC4C0750C214B1185E7082EB278CFBB" id="1" />
+    <equipment name="4C39D936FD0E4982B3C60575EC055ADB" id="2" />
+  </well>
+  <well name="BBBBB" id="2">
+    <equipment name="01A027F5628B4779B127CA94C7F56E83" id="3" />
+    <equipment name="B6D29DCC5A194B1EB2FDC98DE0581286" id="4" />
+    <equipment name="8ADE35C6DEE646FC8D73409354ACA9CA" id="5" />
+  </well>
+</dbinfo>
